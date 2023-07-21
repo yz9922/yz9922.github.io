@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>测试文章</title>
+    <link href="/2023/07/21/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <url>/2023/07/21/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<p>这是一篇测试文章<img src="/2023/07/21/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.jpg" class="" title="这是一张测试图片"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Test</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/07/20/hello-world/"/>
     <url>/2023/07/20/hello-world/</url>
